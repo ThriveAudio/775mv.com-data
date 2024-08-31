@@ -89,3 +89,8 @@ body {
 .tab {
   padding-left: 1rem;
 }
+
+.row {
+  display: flex;
+  flex-direction: row;
+}

@@ -13,6 +13,7 @@
   --viridian: #1f885f;
   --violet: #4f1f88;
   color: var(--lightoutline);
+  font-family: 'ui-sans-serif', 'system-ui', 'sans-serif', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
 }
 
 body {
